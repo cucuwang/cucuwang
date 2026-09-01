@@ -5,7 +5,7 @@ Building practical AI tooling, developer workflows, and energy / IoT systems.
 ## Projects
 
 - [aeoptimize](https://github.com/cucuwang/aeoptimize) checks whether static sites and documentation are ready for AI search, locally and in CI.
-- [grill-me-fix](https://github.com/cucuwang/grill-me-fix) turns vague visual feedback into precise, reviewable code changes.
+- [visual-fix](https://github.com/cucuwang/visual-fix) locates a pointed UI defect in source code, asks for approval on the exact patch, and verifies the result.
 
 ## Open source
 
