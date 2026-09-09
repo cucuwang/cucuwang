@@ -20,6 +20,10 @@ Deterministic GEO content-readiness lint for static websites and documentation.
 
 Point at a UI defect, locate the right source, approve the patch, and verify the result.
 
+## Open-source contributions
+
+Contributed 455 Traditional Chinese translations to [lazygit](https://github.com/jesseduffield/lazygit/commit/3ba69d49656c733817c377e9b7d44ed86fd6f5e8) through [Crowdin](https://crowdin.com/profile/cucuwang), helping complete its localization.
+
 ## Tech / Focus
 
 TypeScript · Python · AI Agents · Developer Tools · Automation · GitHub Actions · IoT · EMS
