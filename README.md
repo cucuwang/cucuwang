@@ -2,17 +2,47 @@
 
 Building practical AI tooling, developer workflows, and energy / IoT systems.
 
-## Projects
+I turn ideas into working systems, from software and automation to real-world infrastructure.
 
-- [aeoptimize](https://github.com/cucuwang/aeoptimize) checks whether static sites and documentation are ready for AI search, locally and in CI.
-- [visual-fix](https://github.com/cucuwang/visual-fix) locates a pointed UI defect in source code, asks for approval on the exact patch, and verifies the result.
+## Currently building
 
-## Open source
+- GEO tooling
+- AI-assisted developer workflows
+- Energy / IoT systems
 
-I contribute focused fixes, documentation, and developer tooling to projects including pandas, Zarr, and cognee.
+## Featured Projects
 
-## Current focus
+### [geoptimize](https://github.com/cucuwang/geoptimize)
 
-Practical AI tooling, developer infrastructure, and maintainable open-source workflows.
+Deterministic GEO content-readiness lint for static websites and documentation.
 
-[Website](https://lvsota.com) · [GitHub projects](https://github.com/cucuwang?tab=repositories)
+### [visual-fix](https://github.com/cucuwang/visual-fix)
+
+Point at a UI defect, locate the right source, approve the patch, and verify the result.
+
+## Merged PRs
+
+- [Zarr Python #4297](https://github.com/zarr-developers/zarr-python/pull/4297) · Documented Read the Docs version-slug handling for subpackage releases.
+
+## Tech / Focus
+
+TypeScript · Python · AI Agents · Developer Tools · Automation · GitHub Actions · IoT · EMS
+
+## Connect
+
+[GitHub](https://github.com/cucuwang) · [Website](https://lvsota.com)
+
+<details>
+  <summary>tiny side quest</summary>
+
+  Small tools, automation ideas, and experiments live [here](https://github.com/cucuwang?tab=repositories).
+
+</details>
+
+<p align="center">
+  <img src="./assets/dino-footer.png" alt="" width="100">
+  <br>
+  <sub>keep building 🌱</sub>
+</p>
+
+<!-- Dino approved. Ship it. -->
