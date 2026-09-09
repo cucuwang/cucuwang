@@ -16,7 +16,7 @@ I turn ideas into working systems, from software and automation to real-world in
 
 Deterministic GEO content-readiness lint for static websites and documentation.
 
-[2.5k+ total npm downloads](https://api.npmjs.org/downloads/point/2026-04-07:2026-09-08/aeoptimize)
+[![2.5k+ total npm downloads](./assets/npm-downloads.svg)](https://api.npmjs.org/downloads/point/2026-04-07:2026-09-08/aeoptimize)
 
 ## <img src="./assets/contributions.svg" width="20" height="20" alt=""> Open-source contributions
 
