@@ -20,7 +20,9 @@ Deterministic GEO content-readiness lint for static websites and documentation.
 
 ## <img src="./assets/contributions.svg" width="20" height="20" alt=""> Open-source contributions
 
-Contributed 455 Traditional Chinese translations to [lazygit](https://github.com/jesseduffield/lazygit/commit/3ba69d49656c733817c377e9b7d44ed86fd6f5e8) through [Crowdin](https://crowdin.com/profile/cucuwang), helping complete its localization.
+[![lazygit · zh-TW · 455 strings](./assets/lazygit-contribution.svg)](https://github.com/jesseduffield/lazygit/commit/3ba69d49656c733817c377e9b7d44ed86fd6f5e8)
+
+Helped complete Traditional Chinese localization through [Crowdin](https://crowdin.com/profile/cucuwang), with translations incorporated into upstream.
 
 ## <img src="./assets/focus.svg" width="20" height="20" alt=""> Tech / Focus
 
