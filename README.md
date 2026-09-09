@@ -28,7 +28,7 @@ TypeScript · Python · AI Agents · Developer Tools · Automation · GitHub Act
 
 ## <img src="./assets/connect.svg" width="20" height="20" alt=""> Connect
 
-[GitHub](https://github.com/cucuwang) · [Website](https://lvsota.com)
+[![GitHub](./assets/connect-github.svg)](https://github.com/cucuwang) [![Website](./assets/connect-website.svg)](https://lvsota.com)
 
 <details>
   <summary>tiny side quest</summary>
