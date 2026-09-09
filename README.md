@@ -20,10 +20,6 @@ Deterministic GEO content-readiness lint for static websites and documentation.
 
 Point at a UI defect, locate the right source, approve the patch, and verify the result.
 
-## Merged PRs
-
-- [Zarr Python #4297](https://github.com/zarr-developers/zarr-python/pull/4297) · Documented Read the Docs version-slug handling for subpackage releases.
-
 ## Tech / Focus
 
 TypeScript · Python · AI Agents · Developer Tools · Automation · GitHub Actions · IoT · EMS
