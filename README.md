@@ -1,8 +1,6 @@
 # Te-Shu Wang
 
-Building practical AI tooling, developer workflows, and energy / IoT systems.
-
-I turn ideas into working systems, from software and automation to real-world infrastructure.
+Turning ideas into working systems, from software and automation to real-world infrastructure.
 
 ## <img src="./assets/building.svg" width="20" height="20" alt=""> Currently building
 
